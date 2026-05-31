@@ -122,7 +122,7 @@ a:hover {
 .portrait img {
   display: block;
   width: 100%;
-  aspect-ratio: 1;
+  aspect-ratio: 3 / 4;
   object-fit: cover;
   filter: saturate(0.92) contrast(1.04);
 }
